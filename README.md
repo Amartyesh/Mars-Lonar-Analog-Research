@@ -1,9 +1,11 @@
 
 # Lonar–Jezero Comparative Astrobiology Research
 
+
 <p align="center">
-  <img src="images/project-banner.png" width="100%">
+  <img src="images/Lonar_Jezero_Banner.png" width="100%" alt="Lonar–Jezero Comparative Astrobiology Research">
 </p>
+
 
 <h3 align="center">
   A Computational Study of Terrestrial and Martian
@@ -172,13 +174,11 @@ comparison tool, not as direct evidence of past life.
 
 ## 9. Researcher
 
-**Ash**
+**Amartyesh (Ash)**
 
 Computational Astrobiology Research
 
-## 10. Licence
-
-MIT License
+## 10. Licence 
 
 ---
 
