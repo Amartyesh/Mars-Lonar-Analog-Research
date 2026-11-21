@@ -1,0 +1,9 @@
+Parameter,Result
+Lonar sensor,Sentinel-2 L2A
+Jezero sensor,CRISM MTRDR
+Lonar spectral bands,9
+Jezero spectral bands,489
+Lonar leading reference match,Nontronite
+Jezero leading reference match,Goethite + Quartz
+Jezero mapped pixels,220978
+Jezero dominant reference percentage,96.83
