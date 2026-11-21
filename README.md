@@ -1,5 +1,5 @@
 
-# Lonar–Jezero Comparative Astrobiology Research
+# Lonar Lake–Jezero Comparative Astrobiology Research
 
 
 <p align="center">
@@ -183,5 +183,5 @@ Computational Astrobiology Research
 ---
 
 <p align="center">
-  <b>Exploring Earth to better understand Mars.</b>
+  <b>Exploration beyond Expectation.</b>
 </p>
