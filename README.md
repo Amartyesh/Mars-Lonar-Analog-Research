@@ -125,25 +125,26 @@ mineral reference comparison.
 - SAM similarity matrices
 - Mineral classification visualisation
 
+
 ## 6. Research Visualisations
 
-### Lonar–Jezero Comparative Spectra
+### Lonar Crater — True Colour Image
 
-![Comparative Spectra](images/Lonar_Jezero_Comparative_Spectra.png)
+![Lonar True Colour](images/01_Lonar_True_Colour.png)
 
-### Jezero CRISM False-Colour Composite
+### Lonar — Environmental Indices
 
-![CRISM Composite](images/Jezero_CRISM_False_Colour.png)
+![Environmental Indices](images/02_Environmental_Indices.png)
 
-### Jezero ROI Spectral Profiles
+### Jezero — CRISM False-Colour Composite
 
-![ROI Spectra](images/Jezero_Cleaned_ROI_Spectra.png)
+![CRISM Composite](images/Jezero_CRISM_False_Colour%20(1).png)
 
-### SAM Similarity Matrix
+### Jezero — ROI Spectral Profiles
 
-![SAM Matrix](images/Jezero_SAM_Similarity_Matrix.png)
+![ROI Spectra](images/Jezero_Cleaned_ROI_Spectra%20(1).png)
 
-### Jezero Mineral Map
+### Jezero — Final Mineral Map
 
 ![Mineral Map](images/Jezero_Final_Mineral_Map.png)
 
